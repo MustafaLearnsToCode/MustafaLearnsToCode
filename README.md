@@ -1,6 +1,4 @@
-## Hi there 👋
-
-
+## Hello World, I'm Mustafa👋
 
 - 🔭 I’m currently working on a '100 days of code' by Angela Yu
 - 🌱 I’m currently learning Python
