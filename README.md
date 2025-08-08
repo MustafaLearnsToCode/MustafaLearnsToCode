@@ -1,9 +1,9 @@
 ## Hello World, I'm Mustafa 👋
 
 - 🔭 I’m currently working on a '100 days of code' by Angela Yu
-- 🌱 I’m currently learning Python
-- 👯 I’m looking to collaborate on data analysis and math-driven projects
-- 🤔 I’m looking for help with applying coding to real-world problems
+- 🌱 I’m currently learning Python - APIs and Environmental variables
+- 👯 I’m looking to collaborate on impactful, reserahc projects revolving around math and data analysis
+- 🤔 I’m looking for help with diving deeper into creating projects that solve real-world problems
 - 💬 Ask me about...anything
 - ⚡ Fun fact: My favourite debugging method is...print()
 
