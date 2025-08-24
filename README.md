@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on a '100 days of code' by Angela Yu
 - 🌱 I’m currently learning Python - Webscraping through BeautifulSoup
-- 👯 I’m looking to collaborate on impactful, reserahc projects revolving around math and data analysis
+- 👯 I’m looking to collaborate on impactful, research projects revolving around math and data analysis
 - 🤔 I’m looking for help with diving deeper into creating projects that solve real-world problems
 - 💬 Ask me about...anything
 - ⚡ Fun fact: My favourite debugging method is...print()
