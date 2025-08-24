@@ -8,10 +8,17 @@
 - ⚡ Fun fact: My favourite debugging method is...print()
 
 ### Languages & Tools I Use:
-
+<!-- Core Languages -->
+<img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+<img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
 <img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/python.png" />
-<img align="left" alt="PyCharm" width="40px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/pycharm.png" />
+
+<!-- Libraries & Frameworks -->
 <img align="left" alt="Pandas" width="40px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/pandas.png" />
+<img align="left" alt="Beautiful Soup" width="40px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/beautifulsoup.svg" />
+
+<!-- Tools & Platforms -->
+<img align="left" alt="PyCharm" width="40px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/pycharm.png" />
 <img align="left" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" />
 <img align="left" alt="Terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/terminal/terminal.png" />
 
