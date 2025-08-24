@@ -15,7 +15,6 @@
 
 <!-- Libraries & Frameworks -->
 <img align="left" alt="Pandas" width="40px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/pandas.png" />
-<img align="left" alt="Beautiful Soup" width="40px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/beautifulsoup.svg" />
 
 <!-- Tools & Platforms -->
 <img align="left" alt="PyCharm" width="40px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/pycharm.png" />
