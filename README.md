@@ -1,33 +1,74 @@
-## Hello World, I'm Mustafa 👋
+## Hey, I'm Mustafa 👋
 
-- 🔭 I’m currently working on a '100 days of code' by Angela Yu
-- 🌱 I’m currently learning Python - Selenium webdriver
-- 👯 I’m looking to collaborate on impactful, research projects revolving around math and data analysis
-- 🤔 I’m looking for help with diving deeper into creating projects that solve real-world problems
-- 💬 Ask me about...anything
-- ⚡ Fun fact: My favourite debugging method is...print()
+A high school junior with a deep interest in data science, machine learning, and quantitative finance. I love working on impactful projects, and I'm always building something new or learning new skills. My favourite debugging method? Still `print()`.
 
-### Languages & Tools I Use:
-<!-- Core Languages -->
-<img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
-<img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
-<img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/python.png" />
+---
 
-<!-- Libraries & Frameworks -->
-<img align="left" alt="Pandas" width="40px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/pandas.png" />
+### 🎓 Background
 
-<!-- Tools & Platforms -->
-<img align="left" alt="PyCharm" width="40px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/pycharm.png" />
-<img align="left" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" />
-<img align="left" alt="Terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/terminal/terminal.png" />
+- 11th grade (Junior)
+- Interests: Statistics, Calculus, Economics, Finance, Machine Learning, Data Science
 
-<br><br>
+---
 
-<details>
-  <summary>⚡️My Github Stats</summary>
-  <br>
-  
-  [![Mustafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=MustafaLearnsToCode)](https://github.com/anuraghazra/github-readme-stats) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MustafaLearnsToCode)](https://github.com/anuraghazra/github-readme-stats)
+### 🔭 Areas I work in
 
-</details>
+![Data Science](https://img.shields.io/badge/Data%20Science-0A66C2?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge)
+![Quantitative Finance](https://img.shields.io/badge/Quantitative%20Finance-1B5E20?style=for-the-badge)
+![Math & Research](https://img.shields.io/badge/Math%20%26%20Research-6A1B9A?style=for-the-badge)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-00838F?style=for-the-badge)
+![Statistics](https://img.shields.io/badge/Statistics-B71C1C?style=for-the-badge)
 
+---
+
+### 🛠 Skills & Tools
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Libraries & Frameworks**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+
+**IDEs & Tools**
+
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Terminal](https://img.shields.io/badge/Terminal-4D4D4D?style=for-the-badge&logo=gnome-terminal&logoColor=white)
+
+---
+
+### 🏅 Certifications
+
+| | |
+|---|---|
+| ✅ Completed | **Harvard CS50P** — Introduction to Programming with Python |
+| ✅ Completed | **Andrew Ng · Course 1** — Supervised ML: Regression & Classification |
+| 🔄 In progress | **Andrew Ng · Course 2** — Advanced Learning Algorithms: Neural Networks |
+
+---
+
+### 🚀 Projects
+
+- 📈 **Stock Market Crash Detector** — building an ML model to detect early signals of financial market crashes
+- 🧠 **Andrew Ng ML Specialization** — working through Course 2 on neural networks and deep learning
+
+> Looking to collaborate on impactful research projects in math, data analysis, and real-world problem solving.
+
+---
+
+### 📬 Contact
+
+- 📧 badshah.mustafa77@gmail.com
+- 💼 [linkedin.com/in/mustafabadshah](https://www.linkedin.com/in/mustafabadshah/)
