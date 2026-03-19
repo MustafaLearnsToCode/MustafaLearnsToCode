@@ -1,6 +1,6 @@
 ## Hey, I'm Mustafa 👋
 
-A high school junior with a deep interest in data science, machine learning, and quantitative finance. I love working on impactful projects, and I'm always building something new or learning new skills. My favourite debugging method? Still `print()`.
+A high school junior with a deep interest in data science, machine learning, and quantitative finance. I love working on impactful projects, building something new or just learning. My favourite debugging method? Still `print()`.
 
 ---
 
