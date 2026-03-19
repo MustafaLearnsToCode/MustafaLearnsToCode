@@ -1,4 +1,4 @@
-## Hey, I'm Mustafa 👋
+## Hello World, I'm Mustafa 👋
 
 A high school junior with a deep interest in data science, machine learning, and quantitative finance. I love working on impactful projects, building something new or just learning. My favourite debugging method? Still `print()`.
 
