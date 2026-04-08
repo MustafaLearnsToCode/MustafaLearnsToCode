@@ -58,8 +58,8 @@ A high school junior with a deep interest in data science, machine learning, and
 
 ### 🚀 Projects
 
-- 📈 **Stock Market Crash Detector** — building an ML model to detect early signals of financial market crashes
-- 🧠 **Andrew Ng ML Specialization** — working through Course 2 on neural networks and deep learning
+- 🌎 **Recession Indicator** — building an ML model to detect indicators of an upcoming recession.
+- 🧠 **Andrew Ng ML Specialization** — working through Course 2 on neural networks and deep learning.
 
 > Looking to collaborate on impactful research projects in math, data analysis, and real-world problem solving.
 
