@@ -8,16 +8,23 @@ I especially enjoy moving from a mathematical or economic question → to a mode
 
 ## 🔬 What I'm exploring
 
+- **Quantitative economics** — pricing, consumer behavior, welfare, and empirical models.
 - **Probability & stochastic processes** — using simulation to build intuition about random systems.
-- **Statistics** — developing stronger foundations in probability, inference, simulation, and R.
-- **Quantitative economics** — exploring economic data, pricing, consumer behavior, and empirical models.
-- **Machine learning** — learning how statistical and computational models can be evaluated and applied responsibly.
+- **Statistics** — probability, inference, simulation, segmentation, and R.
+- **Machine learning** — understanding how statistical and computational models behave under imperfect information.
 - **Quantitative finance** — interested in the mathematical ideas behind markets, risk, and pricing.
 
-## 📌 Selected projects
+## 📌 Selected research & projects
+
+### 📊 [WTP Estimation Error & Segmented Pricing](https://github.com/MustafaLearnsToCode/wtp-estimation-error-research)
+**Python · Monte Carlo Simulation · Statistics · Economics · Consumer Welfare**
+
+A simulation-based research project studying how errors in willingness-to-pay estimates affect segmented pricing, firm profit, purchase behavior, and consumer surplus. The analysis builds customer segments from **530,104 cleaned retail records / 4,338 customers**, models WTP under log-normal and gamma specifications, and runs **1,000 Monte Carlo simulations per noise level**.
+
+**Selected result:** under the primary log-normal specification, moving from perfect WTP information to 30% estimation noise reduces average simulated profit by about **4.6%** and purchase rate by about **3.3 percentage points**, while effects on consumer surplus are non-monotonic.
 
 ### 🎲 [Random Walks in R](https://github.com/MustafaLearnsToCode/Random-Walks-R)
-**R · Probability · Simulation · Visualization**
+**R · Probability · Stochastic Processes · Simulation · Visualization**
 
 One- and two-dimensional random-walk simulations with static and animated visualizations, built while exploring stochastic processes and probability.
 
@@ -30,7 +37,7 @@ An ongoing exploratory project using FRED macroeconomic data to study recession-
 
 `Probability` · `Statistics` · `Stochastic Processes` · `Econometrics` · `Quantitative Economics` · `Machine Learning` · `Quantitative Finance`
 
-I'm particularly interested in problems where **mathematical theory and empirical data meet**.
+I'm particularly interested in problems where **mathematical theory, empirical data, and economic behavior meet**.
 
 ## 🛠 Technical toolkit
 
@@ -38,7 +45,9 @@ I'm particularly interested in problems where **mathematical theory and empirica
 
 **Data & modeling:** pandas · NumPy · Matplotlib · scikit-learn
 
-**Tools:** Git · GitHub · Jupyter · RStudio
+**Methods:** simulation · Monte Carlo methods · clustering · statistical modeling · data visualization
+
+**Tools:** Git · GitHub · Jupyter / Colab · RStudio
 
 ## 📚 Learning
 
