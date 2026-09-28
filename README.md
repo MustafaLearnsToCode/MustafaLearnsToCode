@@ -33,6 +33,11 @@ One- and two-dimensional random-walk simulations with static and animated visual
 
 An ongoing exploratory project using FRED macroeconomic data to study recession-related indicators and develop a three-month-ahead classification framework.
 
+### 🧩 [SnapSolve](https://chromewebstore.google.com/detail/snapsolve/dgjmpooifhfhfakmoipdnppnfojkfikf)
+**Chrome Extension · JavaScript · Serverless · Gemini API**
+
+A **published Chrome extension** that lets students drag over a math problem on their screen and receive a step-by-step solution in Chrome's side panel. It supports LaTeX math rendering, keyboard capture, a no-sign-up shared service, and an optional personal Gemini credential mode. Its [backend](https://github.com/MustafaLearnsToCode/snapsolve-backend) uses a Vercel serverless function with extension-origin checks, request validation, usage limiting, and server-side credential isolation.
+
 ## 🧠 Research interests
 
 `Probability` · `Statistics` · `Stochastic Processes` · `Econometrics` · `Quantitative Economics` · `Machine Learning` · `Quantitative Finance`
@@ -41,13 +46,13 @@ I'm particularly interested in problems where **mathematical theory, empirical d
 
 ## 🛠 Technical toolkit
 
-**Languages:** Python · R · Java
+**Languages:** Python · R · Java · JavaScript
 
 **Data & modeling:** pandas · NumPy · Matplotlib · scikit-learn
 
 **Methods:** simulation · Monte Carlo methods · clustering · statistical modeling · data visualization
 
-**Tools:** Git · GitHub · Jupyter / Colab · RStudio
+**Tools:** Git · GitHub · Jupyter / Colab · RStudio · Vercel
 
 ## 📚 Learning
 
