@@ -1,71 +1,59 @@
-## Hello World, I'm Mustafa 👋
+# Hi, I'm Mustafa 👋
 
-A high school junior with a deep interest in data science, machine learning, and quantitative finance. I love working on impactful projects, building something new or just learning. My favourite debugging method? Still `print()`.
+### Mathematics · Statistics · Economics · Quantitative Research
 
----
+I'm a high school senior interested in using **mathematics, statistics, economics, and computation** to investigate real-world questions.
 
-### 🎓 Background
+I especially enjoy moving from a mathematical or economic question → to a model → to code → to something I can test.
 
-- 11th grade (Junior)
-- Interests: Statistics, Calculus, Economics, Finance, Machine Learning, Data Science
+## 🔬 What I'm exploring
 
----
+- **Probability & stochastic processes** — using simulation to build intuition about random systems.
+- **Statistics** — developing stronger foundations in probability, inference, simulation, and R.
+- **Quantitative economics** — exploring economic data, pricing, consumer behavior, and empirical models.
+- **Machine learning** — learning how statistical and computational models can be evaluated and applied responsibly.
+- **Quantitative finance** — interested in the mathematical ideas behind markets, risk, and pricing.
 
-### 🔭 Areas I work in
+## 📌 Selected projects
 
-![Data Science](https://img.shields.io/badge/Data%20Science-0A66C2?style=for-the-badge)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge)
-![Quantitative Finance](https://img.shields.io/badge/Quantitative%20Finance-1B5E20?style=for-the-badge)
-![Math & Research](https://img.shields.io/badge/Math%20%26%20Research-6A1B9A?style=for-the-badge)
-![Data Analysis](https://img.shields.io/badge/Data%20Analysis-00838F?style=for-the-badge)
-![Statistics](https://img.shields.io/badge/Statistics-B71C1C?style=for-the-badge)
+### 🎲 [Random Walks in R](https://github.com/MustafaLearnsToCode/Random-Walks-R)
+**R · Probability · Simulation · Visualization**
 
----
+One- and two-dimensional random-walk simulations with static and animated visualizations, built while exploring stochastic processes and probability.
 
-### 🛠 Skills & Tools
+### 📉 [Recession Indicator](https://github.com/MustafaLearnsToCode/recession-indicator)
+**Python · Economics · Data Analysis**
 
-**Languages**
+An ongoing exploratory project using FRED macroeconomic data to study recession-related indicators and develop a three-month-ahead classification framework.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+## 🧠 Research interests
 
-**Libraries & Frameworks**
+`Probability` · `Statistics` · `Stochastic Processes` · `Econometrics` · `Quantitative Economics` · `Machine Learning` · `Quantitative Finance`
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+I'm particularly interested in problems where **mathematical theory and empirical data meet**.
 
-**IDEs & Tools**
+## 🛠 Technical toolkit
 
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Terminal](https://img.shields.io/badge/Terminal-4D4D4D?style=for-the-badge&logo=gnome-terminal&logoColor=white)
+**Languages:** Python · R · Java
 
----
+**Data & modeling:** pandas · NumPy · Matplotlib · scikit-learn
 
-### 🏅 Certifications
+**Tools:** Git · GitHub · Jupyter · RStudio
 
-| | |
-|---|---|
-| ✅ Completed | **Harvard CS50P** — Introduction to Programming with Python |
-| ✅ Completed | **Andrew Ng · Course 1** — Supervised ML: Regression & Classification |
-| 🔄 In progress | **Andrew Ng · Course 2** — Advanced Learning Algorithms: Neural Networks |
+## 📚 Learning
 
----
+Alongside school coursework, I pursue independent study across mathematics, statistics, economics, and computer science.
 
-### 🚀 Projects
+- Harvard **CS50P — Introduction to Programming with Python**
+- Andrew Ng **Machine Learning Specialization**
+- Independent study in **multivariable calculus**
+- Ongoing work in **statistics and R**
 
-- 🌎 **Recession Indicator** — building an ML model to detect indicators of an upcoming recession.
-- 🧠 **Andrew Ng ML Specialization** — working through Course 2 on neural networks and deep learning.
+## 🤝 Interested in
 
-> Looking to collaborate on impactful research projects in math, data analysis, and real-world problem solving.
+Research collaborations and projects involving mathematical modeling, probability, statistics, economics, data-driven research, and quantitative finance.
 
----
+## 📫 Connect
 
-### 📬 Contact
-
-- 📧 badshah.mustafa77@gmail.com
-- 💼 [linkedin.com/in/mustafabadshah](https://www.linkedin.com/in/mustafabadshah/)
+- [LinkedIn](https://www.linkedin.com/in/mustafabadshah/)
+- **badshah.mustafa77@gmail.com**
